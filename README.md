@@ -42,10 +42,12 @@ TabBar
 ## Скриншоты:
 
 Главный экран
+
 ![hw11](https://github.com/FrostingCat/flutter-hw1/assets/97798186/da3ccc91-cfb9-46a6-b71c-6c11ba8506a2)
 ![hw21](https://github.com/FrostingCat/flutter-hw1/assets/97798186/66c5fe9a-18ce-417c-a18a-79ca21fcd48e)
 
 Дополнительный экран
+
 ![hw12](https://github.com/FrostingCat/flutter-hw1/assets/97798186/95843e47-1c10-4525-93eb-e95908f7ea6f)
 ![hw22](https://github.com/FrostingCat/flutter-hw1/assets/97798186/9339cfce-c5f3-420c-bd2b-e2de1b685882)
 
